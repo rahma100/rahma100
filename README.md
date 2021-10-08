@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahma100
-- 👀 I’m interested in ...
+- 👀 I’m interested in tecnology
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me rahmahashem100@gmail.com
 
 <!---
